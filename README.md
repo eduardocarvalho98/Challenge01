@@ -2,10 +2,16 @@
 
 Este projeto tem como objetivo criar um chatbot utilizando Dialogflow para auxiliar a Dra. Jô no atendimento ao cliente, agendamentos e suporte geral. A solução integra inteligência artificial para processamento de linguagem natural (NLP) e uma arquitetura escalável para garantir segurança e eficiência.
 
+## Integrantes
+
+- Eduardo Carvalho Santos - RM559438
+- Gustavo Rocha De Castro - RM5608318
+- Jhonatan Salles - RM554190
+
 ## Arquitetura da Solução
 
 
-![Diagrama de Arquitetura](blob:https://web.whatsapp.com/7b0b6193-1c6f-47ce-a915-45fdb39c42a4) <!-- Substitua pelo caminho do arquivo real do diagrama -->
+![Diagrama de Arquitetura](https://i.imgur.com/qHqDIJD.png) <!-- Substitua pelo caminho do arquivo real do diagrama -->
 
 ### Descrição dos Componentes
 
@@ -34,9 +40,9 @@ Espera-se que a implementação do chatbot melhore o atendimento ao cliente, pro
 
 Para demonstrar o funcionamento do chatbot, abaixo estão 4 prints de diferentes interações e respostas esperadas do sistema:
 
-![Postman 1](blob:https://web.whatsapp.com/a453ffbf-fe3c-41cc-bbcc-ecc95df71103)
-![Postman 2](blob:https://web.whatsapp.com/769568d9-e823-406d-9e82-3752baf5fe07)
-![Postman 3](blob:https://web.whatsapp.com/2e184477-2ccb-4b82-946d-159bc6b9657f)
-![Dialogflow Training Phrases](blob:https://web.whatsapp.com/cf016b0f-2060-453f-9fdf-715ad7187e82)
+![Postman 1](https://i.imgur.com/ZhK8Fxa.png)
+![Postman 2](https://i.imgur.com/aWSsX0R.png)
+![Postman 3](https://i.imgur.com/mD2mqx4.png)
+![Dialogflow Training Phrases](https://i.imgur.com/Ly1FSuo.png)
 
 
